@@ -1,1 +1,9 @@
-vagner maldito
+$ git init
+$ git remote add origin "(caminho)"
+$ git status
+$ git add .
+$ git status
+$ git commit -m "porra nenhuma"
+$ git status
+$ git push origin master
+$ git config --local http.sslVerify false
